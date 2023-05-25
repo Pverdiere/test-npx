@@ -1,0 +1,22 @@
+{
+  "name": "test-npx",
+  "version": "1.0.0",
+  "description": "First npx command",
+  "main": "index.js",
+  "scripts": {
+    "test": "runTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pverdiere/test-npx.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Pverdiere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pverdiere/test-npx/issues"
+  },
+  "homepage": "https://github.com/Pverdiere/test-npx#readme"
+}
