@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Pverdiere/test-npx#readme",
   "bin": {
-    "helloWorld": "bin/index.js"
+    "multiply": "bin/index.js"
   }
 }
